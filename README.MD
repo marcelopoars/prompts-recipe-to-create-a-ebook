@@ -78,9 +78,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
         GitHub
     </a>
     &nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/marcelopoars" target="_blank">LinkedIn</a>
+    <a href="https://linkedin.com/in/marcelopoars" target="_blank">LinkedIn</a>
     &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/dicadonerd" target="_blank">
+    <a href="https://instagram.com/dicadonerd" target="_blank">
         Instagram
     </a>
     &nbsp;|&nbsp;
