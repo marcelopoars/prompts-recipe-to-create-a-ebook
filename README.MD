@@ -27,7 +27,8 @@ Neste desafio utilizei algumas ferramentas de IA para criar um eBook sobre "CSS 
 
 - [ChatGPT](https://chat.openai.com/)
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Designer Microsoft Image Creator](https://designer.microsoft.com/image-creator)
+- [Google Presentation](https://docs.google.com/presentation)
 
 ## 🧠 Prompts
 
